@@ -1,0 +1,11 @@
+#billing-fields, #payment-fields {
+    display: none;
+}
+
+#billing-toggle, #payment-toggle {
+    cursor: pointer;
+    color: #007cba;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+}

@@ -1,0 +1,10 @@
+/**
+ * Theme Name: Hello Elementor Child
+ * Template:   hello-elementor
+ */
+
+ .latest-portfolio {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
