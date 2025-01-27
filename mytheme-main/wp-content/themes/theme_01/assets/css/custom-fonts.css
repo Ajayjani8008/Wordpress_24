@@ -1,0 +1,86 @@
+/* Revicons Font */
+@font-face {
+    font-family: 'Revicons';
+    src: url('../fonts/revicons/revicons90c6.eot');
+    src: url('../fonts/revicons/revicons90c6.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/revicons/revicons90c6.woff') format('woff'),
+         url('../fonts/revicons/revicons90c6.ttf') format('truetype'),
+         url('../fonts/revicons/revicons90c6.svg#revicons90c6') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Font Awesome Brands */
+@font-face {
+    font-family: 'FontAwesome Brands';
+    src: url('../fonts/fa-brands-400.eot');
+    src: url('../fonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fa-brands-400.woff') format('woff'),
+         url('../fonts/fa-brands-400.ttf') format('truetype'),
+         url('../fonts/fa-brands-400.svg#fa-brands-400') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Font Awesome Regular */
+@font-face {
+    font-family: 'FontAwesome Regular';
+    src: url('../fonts/fa-regular-400.eot');
+    src: url('../fonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fa-regular-400.woff') format('woff'),
+         url('../fonts/fa-regular-400.ttf') format('truetype'),
+         url('../fonts/fa-regular-400.svg#fa-regular-400') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Font Awesome Solid */
+@font-face {
+    font-family: 'FontAwesome Solid';
+    src: url('../fonts/fa-solid-900.eot');
+    src: url('../fonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fa-solid-900.woff') format('woff'),
+         url('../fonts/fa-solid-900.ttf') format('truetype'),
+         url('../fonts/fa-solid-900.svg#fa-solid-900') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Fontello */
+@font-face {
+    font-family: 'Fontello';
+    src: url('../fonts/fontelloc5e6.eot');
+    src: url('../fonts/fontelloc5e6.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fontelloc5e6.woff') format('woff'),
+         url('../fonts/fontelloc5e6.woff2') format('woff2'),
+         url('../fonts/fontelloc5e6.ttf') format('truetype'),
+         url('../fonts/fontelloc5e6.svg#fontelloc5e6') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Line Awesome */
+@font-face {
+    font-family: 'Line Awesome';
+    src: url('../fonts/line-awesomeeb4f.eot');
+    src: url('../fonts/line-awesomeeb4f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/line-awesomeeb4f.woff') format('woff'),
+         url('../fonts/line-awesomeeb4f.woff2') format('woff2'),
+         url('../fonts/line-awesomeeb4f.ttf') format('truetype'),
+         url('../fonts/line-awesomeeb4f.svg#line-awesomeeb4f') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Linearicons-Free */
+@font-face {
+    font-family: 'Linearicons-Free';
+    src: url('../fonts/Linearicons-Free54e9.eot');
+    src: url('../fonts/Linearicons-Free54e9.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Linearicons-Free54e9.woff') format('woff'),
+         url('../fonts/Linearicons-Free54e9.woff2') format('woff2'),
+         url('../fonts/Linearicons-Free54e9.ttf') format('truetype'),
+         url('../fonts/Linearicons-Free54e9.svg#Linearicons-Free54e9') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
